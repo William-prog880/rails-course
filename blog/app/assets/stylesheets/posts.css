@@ -1,0 +1,10 @@
+.site-header {
+    background: #3F5EFB;
+    background: linear-gradient(90deg, rgba(63, 94, 251, 1) 25%, rgba(252, 70, 107, 1) 100%);
+
+}
+
+.site-header h1 {
+
+    color:white;
+}
